@@ -4,6 +4,7 @@
 - :computer: Sou estudante de Engenharia de Software
 - 🌱 Atualmente estou estudando JavaScript
 - :space_invader: Procurando estágios na área de TI
+  ![Snake animation](https://github.com/Beaktz/Beaktz/blob/output/github-contribution-grid-snake.svg)
 
   ## Contatos:
 
