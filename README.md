@@ -1,5 +1,3 @@
-![octocat-1721932794110](https://github.com/user-attachments/assets/7b7411eb-1906-451d-9da1-def41a753ce0)
-
 
 # 👋 Oii!
 ## Meu nome é Beatriz, mas pode me chamar de Bea!
@@ -10,10 +8,12 @@
   ## Contatos:
 
 <div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/beaaktz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:beaktz@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/beatriz-kamien-tehzy" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+## Stats:
 
 <div>
 <a href="https://github.com/Beaktz">
